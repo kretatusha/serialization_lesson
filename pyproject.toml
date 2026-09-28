@@ -11,6 +11,8 @@ dependencies = [
     "jsonschema>=4.25,<5",
     "pydantic>=2.12,<3",
     "python-json-logger>=4.2,<5",
+    "marshmallow>=3.26,<4",
+    "marshmallow-dataclass>=8.7,<9",
 ]
 
 [tool.setuptools.packages.find]
